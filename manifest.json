@@ -1,0 +1,19 @@
+{
+    "manifest": "1",
+    "version": "1.0.0",
+    "author": {
+        "name": "Bryan Ashley",
+        "email": "bryan@weebly.com",
+        "url": "http://bash.ly",
+        "icon": "files/icon.jpg"
+    },
+    "elements": [{
+        "name": "Example Element",
+        "path": "files",
+        "settings": {
+            "config": {
+                "autopop": false
+            }
+        }
+    }]
+}
